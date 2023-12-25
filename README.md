@@ -16,6 +16,7 @@
 | 2023.12.21 | [**[PRO] Lv.2** 다음 큰 숫자](daily-algorithm/231221_PRO_다음_큰_숫자.md)                       | [**[PRO] Lv.2** 피보나치 수](daily-algorithm/231221_PRO_피보나치_수.md)               |
 | 2023.12.22 | [**[PRO] Lv.2** 짝지어 제거하기](daily-algorithm/231222_PRO_짝지어_제거하기.md)                 | [**[PRO] Lv.2** 카펫](daily-algorithm/231222_PRO_카펫.md)                             |
 | 2023.12.25 | [**[PRO] Lv.2** 영어 끝말잇기](daily-algorithm/231225_PRO_영어_끝말잇기.md)                     | [**[PRO] Lv.2** 점프와 순간 이동](daily-algorithm/231225_PRO_점프와_순간_이동.md)     |
+| 2023.12.26 | [**[PRO] Lv.2** 구명보트](daily-algorithm/231226_PRO_구명보트.md)                               | [**[PRO] Lv.2** 예상 대진표](daily-algorithm/231226_PRO_예상_대진표.md)               |
 
 ### Weekly Algorithm
 
