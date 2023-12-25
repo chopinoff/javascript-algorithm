@@ -1,3 +1,7 @@
+## 문제 링크
+
+[![PRO]][Link]
+
 ## 1차 제출 코드
 
 -   `split(' ')`으로 분리했을 때 주어진 문자열 마지막에 공백이 있는 경우를 통과하지 못해 모든 문자열을 낱개의 문자로 분리했습니다.
@@ -47,6 +51,8 @@ function solution(s) {
 -   `replace()`로 문자열 대체할 때 O(n), `.slice()`로 첫 공백 자를 때 O(n) : O(n) + O(n) = O(n)
 -   ∴ **O(n)**
 
-## 느낀점
+<!---------------------------------------------------------------------------->
 
--   정규 표현식 문법이 생각나지 않아서 다시 찾아봐야 했다. 특별한 장점을 발견하지 못해서 실전에서 쓸 일은 없을 것 같은 느낌...
+[PRO]: https://github.com/chopinoff/js-algorithm/assets/107768516/6bb592e8-21d7-4244-91bb-8708f1f8ebb0
+[BOJ]: https://github.com/chopinoff/js-algorithm/assets/107768516/ab4a009d-7575-4362-8a74-ebd2476570e4
+[Link]: https://school.programmers.co.kr/learn/courses/30/lessons/12951
