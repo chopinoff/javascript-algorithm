@@ -28,7 +28,8 @@
 | 2024.01.10 | [**[PRO] Lv.2** 괄호 회전하기](daily-algorithm/240110_PRO_괄호_회전하기.md)     |                                                                                                   |
 | 2024.01.11 | [**[PRO] Lv.2** 귤 고르기](daily-algorithm/240111_PRO_귤_고르기.md)             |                                                                                                   |
 | 2024.01.12 | [**[PRO] Lv.2** n^2 배열 자르기](daily-algorithm/240112_PRO_n^2_배열_자르기.md) |                                                                                                   |
-| 2024.01.13 | [**[PRO] Lv.2** H Index](daily-algorithm/240113_PRO_H-Index.md)                 | [**[PRO] Lv.2** 할인 행사](daily-algorithm/240113_PRO_할인_행사.md)                               |
+| 2024.01.13 | [**[PRO] Lv.2** H-Index](daily-algorithm/240113_PRO_H-Index.md)                 | [**[PRO] Lv.2** 할인 행사](daily-algorithm/240113_PRO_할인_행사.md)                               |
+| 2024.01.14 | [**[PRO] Lv.2** 의상](daily-algorithm/240114_PRO_의상.md)                       | [**[PRO] Lv.2** 행렬의 곱셈](daily-algorithm/240114_PRO_행렬의_곱셈.md)                           |
 
 ### Weekly Algorithm
 
