@@ -32,6 +32,7 @@
 | 2024.01.14 | [**[PRO] Lv.2** 의상](daily-algorithm/240114_PRO_의상.md)                                   | [**[PRO] Lv.2** 행렬의 곱셈](daily-algorithm/240114_PRO_행렬의_곱셈.md)                           |
 | 2024.01.15 | [**[PRO] Lv.2** 연속된 부분 수열의 합](daily-algorithm/240115_PRO_연속된_부분_수열의_합.md) |                                                                                                   |
 | 2024.01.16 | [**[PRO] Lv.2** 캐시](daily-algorithm/240116_PRO_캐시.md)                                   | [**[PRO] Lv.2** 튜플](daily-algorithm/240116_PRO_튜플.md)                                         |
+| 2024.01.16 | [**[PRO] Lv.2** 기능개발](daily-algorithm/240117_PRO_기능개발.md)                           |                                                                                                   |
 
 ### Weekly Algorithm
 
