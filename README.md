@@ -34,6 +34,7 @@
 | 2024.01.16 | [**[PRO] Lv.2** 캐시](daily-algorithm/240116_PRO_캐시.md)                                   | [**[PRO] Lv.2** 튜플](daily-algorithm/240116_PRO_튜플.md)                                         |
 | 2024.01.17 | [**[PRO] Lv.2** 기능개발](daily-algorithm/240117_PRO_기능개발.md)                           |                                                                                                   |
 | 2024.01.18 | [**[PRO] Lv.2** 프로세스](daily-algorithm/240118_PRO_프로세스.md)                           | [**[PRO] Lv.2** 피로도](daily-algorithm/240118_PRO_피로도.md)                                     |
+| 2024.01.19 | [**[PRO] Lv.2** 뉴스 클러스터링](daily-algorithm/240119_PRO_뉴스_클러스터링.md)             |                                                                                                   |
 
 ### Weekly Algorithm
 
