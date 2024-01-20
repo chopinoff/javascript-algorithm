@@ -22,20 +22,21 @@
 
 #### 2024
 
-|    Date    |                                                                                             |                                                                                                   |
-| :--------: | :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ |
-| 2024.01.09 | [**[PRO] Lv.2** 멀리 뛰기](daily-algorithm/240109_PRO_멀리_뛰기.md)                         | [**[PRO] Lv.2** 연속 부분 수열 합의 개수](daily-algorithm/240109_PRO_연속_부분_수열_합의_개수.md) |
-| 2024.01.10 | [**[PRO] Lv.2** 괄호 회전하기](daily-algorithm/240110_PRO_괄호_회전하기.md)                 |                                                                                                   |
-| 2024.01.11 | [**[PRO] Lv.2** 귤 고르기](daily-algorithm/240111_PRO_귤_고르기.md)                         |                                                                                                   |
-| 2024.01.12 | [**[PRO] Lv.2** n^2 배열 자르기](daily-algorithm/240112_PRO_n^2_배열_자르기.md)             |                                                                                                   |
-| 2024.01.13 | [**[PRO] Lv.2** H-Index](daily-algorithm/240113_PRO_H-Index.md)                             | [**[PRO] Lv.2** 할인 행사](daily-algorithm/240113_PRO_할인_행사.md)                               |
-| 2024.01.14 | [**[PRO] Lv.2** 의상](daily-algorithm/240114_PRO_의상.md)                                   | [**[PRO] Lv.2** 행렬의 곱셈](daily-algorithm/240114_PRO_행렬의_곱셈.md)                           |
-| 2024.01.15 | [**[PRO] Lv.2** 연속된 부분 수열의 합](daily-algorithm/240115_PRO_연속된_부분_수열의_합.md) |                                                                                                   |
-| 2024.01.16 | [**[PRO] Lv.2** 캐시](daily-algorithm/240116_PRO_캐시.md)                                   | [**[PRO] Lv.2** 튜플](daily-algorithm/240116_PRO_튜플.md)                                         |
-| 2024.01.17 | [**[PRO] Lv.2** 기능개발](daily-algorithm/240117_PRO_기능개발.md)                           |                                                                                                   |
-| 2024.01.18 | [**[PRO] Lv.2** 프로세스](daily-algorithm/240118_PRO_프로세스.md)                           | [**[PRO] Lv.2** 피로도](daily-algorithm/240118_PRO_피로도.md)                                     |
-| 2024.01.19 | [**[PRO] Lv.2** 뉴스 클러스터링](daily-algorithm/240119_PRO_뉴스_클러스터링.md)             |                                                                                                   |
-| 2024.01.20 | [**[PRO] Lv.2** 전화번호 목록](daily-algorithm/240120_PRO_전화번호_목록.md)                 |                                                                                                   |
+|    Date    |                                                                                                   |                                                                                                   |
+| :--------: | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ |
+| 2024.01.09 | [**[PRO] Lv.2** 멀리 뛰기](daily-algorithm/240109_PRO_멀리_뛰기.md)                               | [**[PRO] Lv.2** 연속 부분 수열 합의 개수](daily-algorithm/240109_PRO_연속_부분_수열_합의_개수.md) |
+| 2024.01.10 | [**[PRO] Lv.2** 괄호 회전하기](daily-algorithm/240110_PRO_괄호_회전하기.md)                       |                                                                                                   |
+| 2024.01.11 | [**[PRO] Lv.2** 귤 고르기](daily-algorithm/240111_PRO_귤_고르기.md)                               |                                                                                                   |
+| 2024.01.12 | [**[PRO] Lv.2** n^2 배열 자르기](daily-algorithm/240112_PRO_n^2_배열_자르기.md)                   |                                                                                                   |
+| 2024.01.13 | [**[PRO] Lv.2** H-Index](daily-algorithm/240113_PRO_H-Index.md)                                   | [**[PRO] Lv.2** 할인 행사](daily-algorithm/240113_PRO_할인_행사.md)                               |
+| 2024.01.14 | [**[PRO] Lv.2** 의상](daily-algorithm/240114_PRO_의상.md)                                         | [**[PRO] Lv.2** 행렬의 곱셈](daily-algorithm/240114_PRO_행렬의_곱셈.md)                           |
+| 2024.01.15 | [**[PRO] Lv.2** 연속된 부분 수열의 합](daily-algorithm/240115_PRO_연속된_부분_수열의_합.md)       |                                                                                                   |
+| 2024.01.16 | [**[PRO] Lv.2** 캐시](daily-algorithm/240116_PRO_캐시.md)                                         | [**[PRO] Lv.2** 튜플](daily-algorithm/240116_PRO_튜플.md)                                         |
+| 2024.01.17 | [**[PRO] Lv.2** 기능개발](daily-algorithm/240117_PRO_기능개발.md)                                 |                                                                                                   |
+| 2024.01.18 | [**[PRO] Lv.2** 프로세스](daily-algorithm/240118_PRO_프로세스.md)                                 | [**[PRO] Lv.2** 피로도](daily-algorithm/240118_PRO_피로도.md)                                     |
+| 2024.01.19 | [**[PRO] Lv.2** 뉴스 클러스터링](daily-algorithm/240119_PRO_뉴스_클러스터링.md)                   |                                                                                                   |
+| 2024.01.20 | [**[PRO] Lv.2** 전화번호 목록](daily-algorithm/240120_PRO_전화번호_목록.md)                       |                                                                                                   |
+| 2024.01.21 | [**[PRO] Lv.2** k진수에서 소수 개수 구하기](daily-algorithm/240121_k진수에서_소수_개수_구하기.md) | [**[PRO] Lv.2** 타겟 넘버](daily-algorithm/240121_PRO_타겟_넘버.md)                               |
 
 ### Weekly Algorithm
 
