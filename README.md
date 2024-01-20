@@ -35,6 +35,7 @@
 | 2024.01.17 | [**[PRO] Lv.2** 기능개발](daily-algorithm/240117_PRO_기능개발.md)                           |                                                                                                   |
 | 2024.01.18 | [**[PRO] Lv.2** 프로세스](daily-algorithm/240118_PRO_프로세스.md)                           | [**[PRO] Lv.2** 피로도](daily-algorithm/240118_PRO_피로도.md)                                     |
 | 2024.01.19 | [**[PRO] Lv.2** 뉴스 클러스터링](daily-algorithm/240119_PRO_뉴스_클러스터링.md)             |                                                                                                   |
+| 2024.01.20 | [**[PRO] Lv.2** 전화번호 목록](daily-algorithm/240120_PRO_전화번호_목록.md)                 |                                                                                                   |
 
 ### Weekly Algorithm
 

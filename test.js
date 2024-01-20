@@ -1,21 +1,29 @@
-function solution(priorities, location) {
-    const locations = Array(priorities.length)
-        .fill()
-        .map((val, idx) => idx);
-    let ans = 0;
-    let cnt = 0;
-
-    while (priorities.length) {
-        const [pri, loc] = [priorities.shift(), locations.shift()];
-        cnt += priorities.length;
-        if (pri < Math.max(...priorities)) {
-            priorities.push(pri);
-            locations.push(loc);
-        } else {
-            ans += 1;
-            if (loc === location) return cnt;
+function solution(phoneBook) {
+    phoneBook.sort((a, b) => a.length - b.length);
+    console.log(phoneBook);
+    let map = new Map(),
+        s = 0;
+    while (s < phoneBook.length) {
+        let len = phoneBook[s].length;
+        console.log(len);
+        for (let e = s; e < phoneBook.length; e++) {
+            if (len !== phoneBook[e].length) {
+                for (let i = s; i < e; i++) {
+                    map.set(phoneBook[i], 0);
+                }
+                s = e;
+                break;
+            } else {
+                console.log(
+                    phoneBook[e],
+                    map.entries(),
+                    phoneBook[e].slice(0, len)
+                );
+                if (map.has(phoneBook[e].slice(0, len))) return false;
+                else if (e === phoneBook.length - 1) return true;
+            }
         }
     }
 }
 
-console.log(solution([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 9));
+solution(['119', '1234', '11900']);
