@@ -8,15 +8,15 @@
 
 ### Daily Algorithm
 
-|    Date    |                                                                                                 |                                                                                       |
-| :--------: | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| 2023.12.18 | [**[PRO] Lv.2** JadenCase 문자열 만들기](daily-algorithm/231218_PRO_JadenCase_문자열_만들기.md) | [**[PRO] Lv.2** 최댓값과 최솟값](daily-algorithm/231218_PRO_최댓값과_최솟값.md)       |
-| 2023.12.19 | [**[PRO] Lv.2** 올바른 괄호](daily-algorithm/231219_PRO_올바른_괄호.md)                         | [**[PRO] Lv.2** 최솟값 만들기](daily-algorithm/231219_PRO_최솟값_만들기.md)           |
-| 2023.12.20 | [**[PRO] Lv.2** 숫자의 표현](daily-algorithm/231220_PRO_숫자의_표현.md)                         | [**[PRO] Lv.2** 이진 변환 반복하기](daily-algorithm/231220_PRO_이진_변환_반복하기.md) |
-| 2023.12.21 | [**[PRO] Lv.2** 다음 큰 숫자](daily-algorithm/231221_PRO_다음_큰_숫자.md)                       | [**[PRO] Lv.2** 피보나치 수](daily-algorithm/231221_PRO_피보나치_수.md)               |
-| 2023.12.22 | [**[PRO] Lv.2** 짝지어 제거하기](daily-algorithm/231222_PRO_짝지어_제거하기.md)                 | [**[PRO] Lv.2** 카펫](daily-algorithm/231222_PRO_카펫.md)                             |
-| 2023.12.25 | [**[PRO] Lv.2** 영어 끝말잇기](daily-algorithm/231225_PRO_영어_끝말잇기.md)                     | [**[PRO] Lv.2** 점프와 순간 이동](daily-algorithm/231225_PRO_점프와_순간_이동.md)     |
-| 2023.12.26 | [**[PRO] Lv.2** 구명보트](daily-algorithm/231226_PRO_구명보트.md)                               | [**[PRO] Lv.2** 예상 대진표](daily-algorithm/231226_PRO_예상_대진표.md)               |
+|    Date    |                                                                                                       |                                                                                                   |
+| :--------: | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| 2023.12.18 | [**[PRO] Lv.2** JadenCase 문자열 만들기](daily-algorithm/231218_PRO_JadenCase_문자열_만들기.md)       | [**[PRO] Lv.2** 최댓값과 최솟값](daily-algorithm/231218_PRO_최댓값과_최솟값.md)                   |
+| 2023.12.19 | [**[PRO] Lv.2** 올바른 괄호](daily-algorithm/231219_PRO_올바른_괄호.md)                               | [**[PRO] Lv.2** 최솟값 만들기](daily-algorithm/231219_PRO_최솟값_만들기.md)                       |
+| 2023.12.20 | [**[PRO] Lv.2** 숫자의 표현](daily-algorithm/231220_PRO_숫자의_표현.md)                               | [**[PRO] Lv.2** 이진 변환 반복하기](daily-algorithm/231220_PRO_이진_변환_반복하기.md)             |
+| 2023.12.21 | [**[PRO] Lv.2** 다음 큰 숫자](daily-algorithm/231221_PRO_다음_큰_숫자.md)                             | [**[PRO] Lv.2** 피보나치 수](daily-algorithm/231221_PRO_피보나치_수.md)                           |
+| 2023.12.22 | [**[PRO] Lv.2** 짝지어 제거하기](daily-algorithm/231222_PRO_짝지어_제거하기.md)                       | [**[PRO] Lv.2** 카펫](daily-algorithm/231222_PRO_카펫.md)                                         |
+| 2023.12.25 | [**[PRO] Lv.2** 영어 끝말잇기](daily-algorithm/231225_PRO_영어_끝말잇기.md)                           | [**[PRO] Lv.2** 점프와 순간 이동](daily-algorithm/231225_PRO_점프와_순간_이동.md)                 |
+| 2023.12.26 | [**[PRO] Lv.2** 구명보트](daily-algorithm/231226_PRO_구명보트.md)                                     | [**[PRO] Lv.2** 예상 대진표](daily-algorithm/231226_PRO_예상_대진표.md)                           |
 | 2024.01.09 | [**[PRO] Lv.2** 멀리 뛰기](daily-algorithm/240109_PRO_멀리_뛰기.md)                                   | [**[PRO] Lv.2** 연속 부분 수열 합의 개수](daily-algorithm/240109_PRO_연속_부분_수열_합의_개수.md) |
 | 2024.01.10 | [**[PRO] Lv.2** 괄호 회전하기](daily-algorithm/240110_PRO_괄호_회전하기.md)                           |                                                                                                   |
 | 2024.01.11 | [**[PRO] Lv.2** 귤 고르기](daily-algorithm/240111_PRO_귤_고르기.md)                                   |                                                                                                   |
@@ -30,6 +30,7 @@
 | 2024.01.19 | [**[PRO] Lv.2** 뉴스 클러스터링](daily-algorithm/240119_PRO_뉴스_클러스터링.md)                       |                                                                                                   |
 | 2024.01.20 | [**[PRO] Lv.2** 전화번호 목록](daily-algorithm/240120_PRO_전화번호_목록.md)                           |                                                                                                   |
 | 2024.01.21 | [**[PRO] Lv.2** k진수에서 소수 개수 구하기](daily-algorithm/240121_PRO_k진수에서_소수_개수_구하기.md) | [**[PRO] Lv.2** 타겟 넘버](daily-algorithm/240121_PRO_타겟_넘버.md)                               |
+| 2024.01.22 | [**[PRO] Lv.2** n진수 게임](daily-algorithm/240122_PRO_n진수_게임.md)                                 | [**[PRO] Lv.2** 압축](daily-algorithm/240122_PRO_압축.md)                                         |
 
 ### Weekly Algorithm
 
