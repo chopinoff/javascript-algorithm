@@ -31,9 +31,11 @@
 | 2024.01.20 | [**[PRO] Lv.2** 전화번호 목록](daily-algorithm/240120_PRO_전화번호_목록.md)                           |                                                                                                   |
 | 2024.01.21 | [**[PRO] Lv.2** k진수에서 소수 개수 구하기](daily-algorithm/240121_PRO_k진수에서_소수_개수_구하기.md) | [**[PRO] Lv.2** 타겟 넘버](daily-algorithm/240121_PRO_타겟_넘버.md)                               |
 | 2024.01.22 | [**[PRO] Lv.2** n진수 게임](daily-algorithm/240122_PRO_n진수_게임.md)                                 | [**[PRO] Lv.2** 압축](daily-algorithm/240122_PRO_압축.md)                                         |
+| 2024.01.23 | [**[PRO] Lv.2** N개의 최소공배수](daily-algorithm/240123_PRO_N개의_최소공배수.md)                     |                                                                                                   |
 
 ### Python to JavaScript
-[알고리즘 스터디](https://github.com/dhLeoKim/algo-study)에서 Python으로 푼 문제를 JS로 다시 풀기 
+
+[알고리즘 스터디](https://github.com/dhLeoKim/algo-study)에서 Python으로 푼 문제를 JS로 다시 풀기
 
 <table>
   <tr align="center">
