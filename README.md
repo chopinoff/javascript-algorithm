@@ -32,7 +32,8 @@
 | 2024.01.21 | [**[PRO] Lv.2** k진수에서 소수 개수 구하기](daily-algorithm/240121_PRO_k진수에서_소수_개수_구하기.md) | [**[PRO] Lv.2** 타겟 넘버](daily-algorithm/240121_PRO_타겟_넘버.md)                               |
 | 2024.01.22 | [**[PRO] Lv.2** n진수 게임](daily-algorithm/240122_PRO_n진수_게임.md)                                 | [**[PRO] Lv.2** 압축](daily-algorithm/240122_PRO_압축.md)                                         |
 
-### Weekly Algorithm
+### Python to JavaScript
+[알고리즘 스터디](https://github.com/dhLeoKim/algo-study)에서 Python으로 푼 문제를 JS로 다시 풀기 
 
 <table>
   <tr align="center">
@@ -42,24 +43,12 @@
   </tr>
   <tr>
     <td rowspan='2' align="center">1</td>
-    <td><a href="weekly-algorithm/231221_BOJ_부등호.md"><b>[BOJ] S1</b> 부등호</a></td>
-    <td><a href="weekly-algorithm/231221_BOJ_스타트와_링크.md"><b>[BOJ] S1</b> 스타트와 링크</a></td>
-  </tr>
-  <tr>
-    <td><a href="weekly-algorithm/231221_BOJ_탑.md"><b>[BOJ] G5</b> 탑</a></td>
+    <td><a href="python-to-js/240123_BOJ_숫자고르기.md"><b>[BOJ] G5</b> 숫자고르기</a></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan='3' align="center">2</td>
-    <td colspan='2' align="center"><b>BFS/DFS</b></td>
-  </tr>
-  <tr>
-    <td><a href="weekly-algorithm/231226_BOJ_안전_영역.md"><b>[BOJ] S1</b> 안전 영역</a></td>
-    <td><a href="weekly-algorithm/231226_BOJ_연구소.md"><b>[BOJ] G4</b> 연구소</a></td>
-  </tr>
-  <tr>
-    <td><a href="weekly-algorithm/231226_BOJ_토마토.md"><b>[BOJ] G5</b> 토마토</a></td>
-    <td><a href="weekly-algorithm/231226_BOJ_트리.md"><b>[BOJ] G5</b> 트리</a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
