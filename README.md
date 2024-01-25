@@ -33,6 +33,7 @@
 | 2024.01.22 | [**[PRO] Lv.2** n진수 게임](daily-algorithm/240122_PRO_n진수_게임.md)                                 | [**[PRO] Lv.2** 압축](daily-algorithm/240122_PRO_압축.md)                                         |
 | 2024.01.23 | [**[PRO] Lv.2** N개의 최소공배수](daily-algorithm/240123_PRO_N개의_최소공배수.md)                     |                                                                                                   |
 | 2024.01.24 | [**[PRO] Lv.2** 모음사전](daily-algorithm/240124_PRO_모음사전.md)                                     |                                                                                                   |
+| 2024.01.25 | [**[PRO] Lv.2** 게임 맵 최단거리](daily-algorithm/240125_PRO_게임_맵_최단거리.md)                     |                                                                                                   |
 
 ### Python to JavaScript
 
