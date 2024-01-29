@@ -37,6 +37,7 @@
 | 2024.01.26 | [**[PRO] Lv.2** 더 맵게](daily-algorithm/240126_PRO_더_맵게.md)                                       |                                                                                                   |
 | 2024.01.27 | [**[PRO] Lv.2** 뒤에 있는 큰 수 찾기](daily-algorithm/240127_PRO_뒤에_있는_큰_수_찾기.md)             |                                                                                                   |
 | 2024.01.28 | [**[PRO] Lv.2** 주차 요금 계산](daily-algorithm/240128_PRO_주차_요금_계산.md)                         |                                                                                                   |
+| 2024.01.29 | [**[PRO] Lv.2** 호텔 대실](daily-algorithm/240129_PRO_호텔_대실.md)                                   |                                                                                                   |
 
 ### Python to JavaScript
 
