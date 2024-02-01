@@ -39,6 +39,8 @@
 | 2024.01.28 | [**[PRO] Lv.2** 주차 요금 계산](daily-algorithm/240128_PRO_주차_요금_계산.md)                         |                                                                                                   |
 | 2024.01.29 | [**[PRO] Lv.2** 호텔 대실](daily-algorithm/240129_PRO_호텔_대실.md)                                   |                                                                                                   |
 | 2024.01.30 | [**[PRO] Lv.2** 방문 길이](daily-algorithm/240130_PRO_방문_길이.md)                                   |                                                                                                   |
+| 2024.01.31 | [**[PRO] Lv.2** 주식가격](daily-algorithm/240131_PRO_주식가격.md)                                     |                                                                                                   |
+| 2024.02.01 | [**[PRO] Lv.2** 땅따먹기](daily-algorithm/240201_PRO_땅따먹기.md)                                     |                                                                                                   |
 
 ### Python to JavaScript
 
