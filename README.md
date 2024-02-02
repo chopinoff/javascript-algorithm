@@ -41,6 +41,7 @@
 | 2024.01.30 | [**[PRO] Lv.2** 방문 길이](daily-algorithm/240130_PRO_방문_길이.md)                                   |                                                                                                   |
 | 2024.01.31 | [**[PRO] Lv.2** 주식가격](daily-algorithm/240131_PRO_주식가격.md)                                     |                                                                                                   |
 | 2024.02.01 | [**[PRO] Lv.2** 땅따먹기](daily-algorithm/240201_PRO_땅따먹기.md)                                     |                                                                                                   |
+| 2024.02.02 | [**[PRO] Lv.2** 스킬트리](daily-algorithm/240202_PRO_스킬트리.md)                                     |                                                                                                   |
 
 ### Python to JavaScript
 
