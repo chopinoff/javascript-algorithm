@@ -43,6 +43,7 @@
 | 2024.02.01 | [**[PRO] Lv.2** 땅따먹기](daily-algorithm/240201_PRO_땅따먹기.md)                                     |                                                                                                   |
 | 2024.02.02 | [**[PRO] Lv.2** 스킬트리](daily-algorithm/240202_PRO_스킬트리.md)                                     |                                                                                                   |
 | 2024.02.03 | [**[PRO] Lv.2** 롤케이크 자르기](daily-algorithm/240203_PRO_롤케이크_자르기.md)                       | [**[PRO] Lv.2** 오픈채팅방](daily-algorithm/240203_PRO_오픈채팅방.md)                             |
+| 2024.02.04 | [**[PRO] Lv.2** 프렌즈4블록](daily-algorithm/240204_PRO_프렌즈4블록.md)                               |                                                                                                   |
 
 ### Python to JavaScript
 
