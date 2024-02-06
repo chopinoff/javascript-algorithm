@@ -45,6 +45,7 @@
 | 2024.02.03 | [**[PRO] Lv.2** 롤케이크 자르기](daily-algorithm/240203_PRO_롤케이크_자르기.md)                       | [**[PRO] Lv.2** 오픈채팅방](daily-algorithm/240203_PRO_오픈채팅방.md)                             |
 | 2024.02.04 | [**[PRO] Lv.2** 프렌즈4블록](daily-algorithm/240204_PRO_프렌즈4블록.md)                               |                                                                                                   |
 | 2024.02.05 | [**[PRO] Lv.2** 숫자 변환하기](daily-algorithm/240205_PRO_숫자_변환하기.md)                           |                                                                                                   |
+| 2024.02.06 | [**[PRO] Lv.2** 2×n 타일 채우기](daily-algorithm/240206_PRO_2×n_타일_채우기.md)                       |                                                                                                   |
 
 ### Python to JavaScript
 
