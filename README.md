@@ -46,6 +46,7 @@
 | 2024.02.04 | [**[PRO] Lv.2** 프렌즈4블록](daily-algorithm/240204_PRO_프렌즈4블록.md)                               |                                                                                                   |
 | 2024.02.05 | [**[PRO] Lv.2** 숫자 변환하기](daily-algorithm/240205_PRO_숫자_변환하기.md)                           |                                                                                                   |
 | 2024.02.06 | [**[PRO] Lv.2** 2×n 타일 채우기](daily-algorithm/240206_PRO_2×n_타일_채우기.md)                       |                                                                                                   |
+| 2024.02.07 | [**[PRO] Lv.2** 2개 이하로 다른 비트](daily-algorithm/240207_PRO_2개_이하로_다른_비트.md)             |                                                                                                   |
 
 ### Python to JavaScript
 
