@@ -1,15 +1,7 @@
-function solution(numbers) {
-    const newNums = numbers.map((n) => String(n));
-    const sortNums = (a, b) => {
-        const n = Math.min(a.length, b.length);
-        for (let i = 0; i < n; i++) {
-            if (a[i] !== b[i]) return b[i] - a[i];
-        }
-        console.log(a[n], b[n], a[0], a.length, b.length);
-        return a[n] || b[n] > a[0] ? b.length - a.length : a.length - b.length;
-    };
-    newNums.sort((a, b) => sortNums(a, b));
-    return newNums.join('');
-}
+const test1 = [1, 2, 3, 4, 5];
+const test2 = [1, 2, 3, 4, 5];
 
-console.log(solution([3, 30, 34]));
+test1.splice(0, 2);
+console.log(test1);
+console.log(test2.splice(0, 2));
+console.log(test2);
