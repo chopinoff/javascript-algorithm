@@ -65,6 +65,7 @@
 | 2024.02.23 | [**[PRO] Lv.2** ](daily-algorithm/240223_PRO_택배상자.md)                                             |                                                                                                   |
 | 2024.02.24 | [**[PRO] Lv.2** ](daily-algorithm/240224_PRO_가장_큰_수.md)                                           |                                                                                                   |
 | 2024.02.25 | [**[PRO] Lv.2** ](daily-algorithm/240225_PRO_큰_수_만들기.md)                                         |                                                                                                   |
+| 2024.02.26 | [**[PRO] Lv.2** ](daily-algorithm/240226_PRO_삼각_달팽이.md)                                          |                                                                                                   |
 
 ### Python to JavaScript
 
