@@ -66,6 +66,7 @@
 | 2024.02.24 | [**[PRO] Lv.2** 가장 큰 수](daily-algorithm/240224_PRO_가장_큰_수.md)                                 |                                                                                                   |
 | 2024.02.25 | [**[PRO] Lv.2** 큰 수 만들기](daily-algorithm/240225_PRO_큰_수_만들기.md)                             |                                                                                                   |
 | 2024.02.26 | [**[PRO] Lv.2** 삼각 달팽이](daily-algorithm/240226_PRO_삼각_달팽이.md)                               |                                                                                                   |
+| 2024.02.27 | [**[PRO] Lv.2** 마법의 엘리베이터](daily-algorithm/240227_PRO_마법의_엘리베이터.md)                   |                                                                                                   |
 
 ### Python to JavaScript
 
